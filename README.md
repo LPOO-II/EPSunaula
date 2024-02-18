@@ -1,0 +1,1 @@
+Este es un aplicativo de citas medicas hecho con las indicaciones dadas en clase, tenemos el archivo de C# cargado y tambien debes descargar la base de datos, en el programa existe una clase de base de datos donde solo debes cambiar el nombre del server para que se ejecute la base de datos
